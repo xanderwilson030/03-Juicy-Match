@@ -27,6 +27,9 @@ Extra Mechanics:
 - Changing Colors
 - Shake Screen
 - Add Particles to Elements When Moving
+- Win Condition
+- End-game Screen
+- Tracked Score
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
