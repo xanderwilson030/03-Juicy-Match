@@ -2,6 +2,17 @@
 
 Project for MSCH-C220, 4 October 2021
 
+A tile matching game.
+
+## To play
+
+Select and drag tiles using the mouse.
+
+
+## Implementation
+
+Built using Godot 3.3.3
+
 Extra Mechanics:
 - Backgrounds
 - Animated Backgrounds
@@ -16,15 +27,6 @@ Extra Mechanics:
 - Changing Colors
 - Shake Screen
 - Add Particles to Elements When Moving
-
-## To play
-
-Select and drag tiles using the mouse.
-
-
-## Implementation
-
-Built using Godot 3.3.3
 
 ## References
  * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
