@@ -31,4 +31,7 @@ func change_score(s):
 		camera = get_node_or_null("/root/Game/Camera")
 	if camera != null:
 		camera.add_trauma(s/20.0)
+		
+	if score >= 100:
+		var _scene = get_tree().change_scene("res://Die.tscn")
    
